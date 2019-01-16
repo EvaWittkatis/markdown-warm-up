@@ -44,3 +44,7 @@ Nee, de website is niet te vinden op sociale netwerken.
 **Groepsleden**
 
 - Sarah Michaux
+- Hesam Ait Faraji
+- Hervé Mangala Kitungwa
+- Joey Mariën
+- Eva Wittkatis
