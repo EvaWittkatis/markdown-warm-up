@@ -39,3 +39,8 @@ Nee, de website is niet te vinden op sociale netwerken.
 - Leesbare letter kleur
 - Uniforme achtergrond, non-repeat
 - Leesbaarheid
+- Een betere webdeveloper inhuren
+
+**Groepsleden**
+
+- Sarah Michaux
